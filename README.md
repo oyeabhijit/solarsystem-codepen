@@ -2,7 +2,7 @@
 This site is a replica of a Code-Pen sample project. I did some minor changes.
 <br>
 <strong>
-  Website has been deployed <a href="https://redbullmockup.netlify.app/"> here </a> 
+  Website has been deployed <a href="https://redbullmockup.netlify.app/" target="_blank"> here </a> 
 </strong>
 <br>
 <strong> Screenshot of the deployed site <strong>
